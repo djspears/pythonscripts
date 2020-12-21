@@ -30,7 +30,7 @@ This script performs a panorama commit and will push to devices
 
 Commit to a Panorama at 13.129.150.75 that has a modified devicegroup named GWLB:
 
-    $ python pancommitandpush.py 13.129.150.75 username password GWLB
+    $ python panorama-commit-push.py 13.129.150.75 username password GWLB
 
 Instructions for installing the PAN-OS-SDK are located here:
 https://pandevice.readthedocs.io/en/latest/getting-started.html
