@@ -20,7 +20,8 @@
 panorama-commit-push.py
 ==========
 
-This script performs a panorama commit and will push to devices
+This script performs a panorama commit and will push to devices in a specific device group
+that is by default an argument passed in at exectution.
 
 **Usage**::
 
