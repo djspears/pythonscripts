@@ -38,7 +38,7 @@ https://pandevice.readthedocs.io/en/latest/getting-started.html
 
 """
 
-__author__ = "dspears"
+__author__ = "djspears"
 
 
 import argparse
